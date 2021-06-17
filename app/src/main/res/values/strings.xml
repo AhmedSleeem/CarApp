@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="brandName">brandName</string>
+    <string name="this_is_image">catimg</string>
+    <string name="constructionyeartext">constructionyeartext</string>
+    <string name="isused">isused</string>
+</resources>
